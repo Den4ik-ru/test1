@@ -1,4 +1,4 @@
-#version 0.0.1
+#version 0.0.2
 
 def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
